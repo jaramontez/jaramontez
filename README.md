@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaramontez
-- 👀 I’m interested in edtech, design, an art
+- 👀 I’m interested in edtech, design, and art
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any edtech projects!
 - 📫 How to reach me @jaramontez
